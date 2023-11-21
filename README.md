@@ -69,7 +69,7 @@ This is a app made using flutter firebase which gives you entering credentials f
 
 ## Authors
 
-- [@SamarthMovaliya](https://github.com/SamarthMovaliya)
+- [@USAMA179]https://github.com/USAMA179/SHOPING_BOOK
 
 
 ## Appendix
@@ -103,7 +103,7 @@ I'm a Flutter  developer...
 
 ## Support
 
-For support, email samarthmovaliya1@gmail.com.
+For support, email usamagujjjar7722@gmail.com
 
 
 ## Appication Preview GIF
